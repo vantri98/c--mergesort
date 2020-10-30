@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(378): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(454): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(458): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(503): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbzen\source\repos\thuctapcoso\thuctapcoso\source.cpp(450): warning C4715: 'SoSanh2Date': not all control paths return a value
+  ThucTapCoSo.vcxproj -> C:\Users\bbzen\source\repos\ThucTapCoSo\Debug\ThucTapCoSo.exe
